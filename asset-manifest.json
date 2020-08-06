@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personal-office/static/css/main.da66608e.chunk.css",
+    "main.js": "/personal-office/static/js/main.4d61ec49.chunk.js",
+    "main.js.map": "/personal-office/static/js/main.4d61ec49.chunk.js.map",
+    "runtime-main.js": "/personal-office/static/js/runtime-main.89aa170f.js",
+    "runtime-main.js.map": "/personal-office/static/js/runtime-main.89aa170f.js.map",
+    "static/js/2.d1945892.chunk.js": "/personal-office/static/js/2.d1945892.chunk.js",
+    "static/js/2.d1945892.chunk.js.map": "/personal-office/static/js/2.d1945892.chunk.js.map",
+    "index.html": "/personal-office/index.html",
+    "precache-manifest.6f1e0dfbeff2bbb840ee569f4efa689e.js": "/personal-office/precache-manifest.6f1e0dfbeff2bbb840ee569f4efa689e.js",
+    "service-worker.js": "/personal-office/service-worker.js",
+    "static/css/main.da66608e.chunk.css.map": "/personal-office/static/css/main.da66608e.chunk.css.map",
+    "static/js/2.d1945892.chunk.js.LICENSE.txt": "/personal-office/static/js/2.d1945892.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89aa170f.js",
+    "static/js/2.d1945892.chunk.js",
+    "static/css/main.da66608e.chunk.css",
+    "static/js/main.4d61ec49.chunk.js"
+  ]
+}
