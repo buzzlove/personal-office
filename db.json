@@ -1,0 +1,20 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Ilya",
+      "phone": "8904545454",
+      "email": "ilya@mail.ru"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
